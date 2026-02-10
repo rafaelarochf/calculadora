@@ -23,6 +23,7 @@ O arquivo `executar.sh` é responsável por executar o código Python da calcula
 O conteúdo do script é:
 
 #!/bin/bash
+
 python Calculadora_RafaelaFreitas.py
 
 
