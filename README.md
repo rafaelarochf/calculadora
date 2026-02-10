@@ -1,5 +1,8 @@
 # Calculadora em Python
 
+# Calculadora
+Calculadora em Python de comandos simples (+, -, *, /)
+
 ## Descrição
 Este projeto consiste em uma calculadora simples desenvolvida em Python como parte do módulo 1 do curso.
 
