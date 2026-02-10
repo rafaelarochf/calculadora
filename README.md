@@ -1,28 +1,21 @@
-# calculadora
-Calculadora em Python de comandos simples (+, -, *, /)
+# Calculadora em Python
 
-# Projeto Calculadora
+## Descrição
+Este projeto consiste em uma calculadora simples desenvolvida em Python como parte do módulo 1 do curso.
 
-Este projeto consiste em uma calculadora desenvolvida em Python, criada como parte do módulo anterior do curso.  
-O objetivo do projeto é realizar operações matemáticas básicas de forma simples e didática.
+## Como executar o arquivo executar.sh
 
-## Como executar o projeto
+1. Certifique-se de ter o Python instalado.
+2. No terminal, navegue até a pasta do projeto.
+3. Execute os comandos:
 
-Para executar o projeto, siga os passos abaixo:
-
-1. Certifique-se de que o Python está instalado na máquina.
-2. Abra o terminal na pasta do projeto.
-3. Execute o arquivo executável com o comando:
-
-   bash executar.sh
-
-O script irá executar o arquivo Python da calculadora.
+chmod +x executar.sh
+./executar.sh
 
 ## Explicação do código em Python
 
-O código foi desenvolvido em Python e funciona como uma calculadora simples.
-Ele permite ao usuário escolher a operação desejada e inserir dois valores
-para realizar cálculos básicos, como soma, subtração, multiplicação e divisão.
+O arquivo Calculadora_RafaelaFreitas.py implementa uma calculadora que permite ao usuário realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
 
-O programa solicita as informações pelo terminal, processa os dados inseridos
-e exibe o resultado da operação escolhida.
+O programa solicita a escolha da operação, recebe dois valores numéricos e exibe o resultado correspondente.
+
+
