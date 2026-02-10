@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 Calculadora em Python de comandos simples (+, -, *, /)
 
 # Projeto Calculadora
